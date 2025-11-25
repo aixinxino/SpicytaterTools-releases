@@ -1,6 +1,6 @@
 {
-  "minVersion": "2.0.3",      // 最低支持版本
-  "forceUpdate": false,       // 是否强制更新（改成 true 触发）
+  "minVersion": "2.0.3",      
+  "forceUpdate": true,       
   "updateMessage": "提示文字",
   "downloadUrl": "下载地址"
 }
