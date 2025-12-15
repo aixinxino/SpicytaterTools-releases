@@ -1,5 +1,5 @@
 {
-  "minVersion": "2.0.6",      
+  "minVersion": "2.0.5",      
   "forceUpdate": true,       
   "updateMessage": "您的版本过低，请更新到最新版本",
   "downloadUrl": "https://github.com/aixinxino/SpicytaterTools-releases/releases"
